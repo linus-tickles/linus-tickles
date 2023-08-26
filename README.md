@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Linus</h1>
+I'm a fullstack engineer and I work for a new neo bank.  I love long walks and nerd talks!
 <div> <a href="https://github.com/https://github.com/linus-tickles" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Languages and Tools:</h3>
 <p align="left">
